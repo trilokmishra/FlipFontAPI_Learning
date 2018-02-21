@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "name": "Popular",
+      "description": "Popular Fonts",
+      "created_on": 1497871002,
+      "id": "c5ced6fd54e0"
+    },
+    {
+      "name": "Designer",
+      "description": "",
+      "created_on": 1497870983,
+      "id": "bab5a9ea54e0"
+    },
+    {
+      "name": "New",
+      "description": null,
+      "created_on": 1499248837,
+      "id": "cb4d45ac6168"
+    },
+    {
+      "name": "Groovy",
+      "description": "",
+      "created_on": 1497870993,
+      "id": "c05c209a54e0"
+    }
+  ]
+}

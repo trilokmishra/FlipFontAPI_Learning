@@ -1,0 +1,4 @@
+TestDataRowId###testrailcaseid###version###appID###appKey###statusCode###message###description
+1###3684915###123###fromtestsettings###fromtestsettings###426###Invalid App version###Error Message should appear on passing wrong Version
+2###3684903###fromtestsettings###111###fromtestsettings###401###Invalid App id###Error Message should appear on passing wrong App ID
+3###3684905###fromtestsettings###fromtestsettings###99###401###Invalid Hash###Error Message should appear on passing wrong Hash
